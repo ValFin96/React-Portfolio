@@ -9,9 +9,9 @@ function Footer() {
     return (
         <div className="footer">
             <div className="socialMedia">
-                <LinkedInIcon />
-                <GitHubIcon />
-                <EmailIcon />
+                <a href="https://www.linkedin.com/in/valeriyaf/"><LinkedInIcon /></a> 
+                <a href="https://github.com/ValFin96"><GitHubIcon /></a>
+                <a href="mailto:valeriya.finogeeva@gmail.com"><EmailIcon /></a>
             </div>
             <p> 
                 &copy; 2023 valfin.com.au
