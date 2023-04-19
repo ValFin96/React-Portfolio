@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.da06f35e.css",
+    "main.js": "/React-Portfolio/static/js/main.9f5323aa.js",
+    "static/media/travelapp.jpg": "/React-Portfolio/static/media/travelapp.ac4fbe194167a9366aef.jpg",
+    "static/media/weatherapp.jpg": "/React-Portfolio/static/media/weatherapp.0cbb98ef833bcdcba963.jpg",
+    "static/media/workdayscheduler.jpg": "/React-Portfolio/static/media/workdayscheduler.03447888e866706dab0d.jpg",
+    "static/media/passwordgenerator.jpg": "/React-Portfolio/static/media/passwordgenerator.37fc6b2e483915082b1c.jpg",
+    "static/media/notetaker.jpg": "/React-Portfolio/static/media/notetaker.9e2728aeceaa0ac56e6d.jpg",
+    "static/media/texteditor.jpg": "/React-Portfolio/static/media/texteditor.0385369cfa5a0769baba.jpg",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.597a0e8a36d5a0df72f6.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.da06f35e.css.map": "/React-Portfolio/static/css/main.da06f35e.css.map",
+    "main.9f5323aa.js.map": "/React-Portfolio/static/js/main.9f5323aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da06f35e.css",
+    "static/js/main.9f5323aa.js"
+  ]
+}
