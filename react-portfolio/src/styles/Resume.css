@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+button{
+    height: 40px;
+    background-color: #e9d35b;
+    border: none;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}

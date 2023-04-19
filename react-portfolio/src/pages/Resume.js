@@ -1,5 +1,6 @@
 import React from 'react';
 import pdfFile from '../assets/resume.pdf';
+import '../styles/Resume.css';
 
 function Resume() {
     const handleDownload = () => {
@@ -11,8 +12,8 @@ function Resume() {
         document.body.removeChild(link);
     };
     return (
-        <div>
-            <p>Download My Resume</p>
+        <div className = "container">
+            <p>Download My Resume Below:</p>
             <button onClick={handleDownload}>
                 Download PDF
             </button>
