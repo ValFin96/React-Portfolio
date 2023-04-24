@@ -1,6 +1,6 @@
 # React-Portfolio
 
-This portfolio showcases the work samples of a web developer and is designed for employers looking for candidates with experience building single-page applications.
+This portfolio showcases the work samples of Valeriya Finogeeva as a web developer and is designed for employers looking for candidates with experience building single-page applications. Deployed application can be found [here](https://valfin96.github.io/React-Portfolio/).
 
 ## Technologies Used
 
@@ -22,3 +22,6 @@ To run this portfolio on your local machine, follow these steps:
 ## Contact
 
 For questions or comments about this portfolio, please contact Valeriya Finogeeva at valeriya.finogeeva@gmail.com.
+
+## Screesnhot
+![](./react-portfolio/src/assets/Screenshot.jpg)
